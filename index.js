@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["By Human Pro Max","W bot"];
 
 
 let currentIndex = 0;
